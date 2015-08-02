@@ -1,0 +1,12 @@
+body {
+  overflow: hidden;
+  background: black;
+  cursor: none;
+}
+
+<style>
+h1 {
+  font-size: 250%;
+  color: red;
+}
+</style>
